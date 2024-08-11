@@ -1,0 +1,12 @@
+Client ID: 753018589330-6mjh60f740tcbkcd9dgr847ivotin905.apps.googleusercontent.com
+
+client secret:
+
+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
+
+
+
+https://script.google.com/macros/s/AKfycbza587ykODQHFBDvCZZPkplQwhrKm_frvHnZ2HAnHFH15n7E-DRCW-Mjq2m0wq7N29w/exec
+
+
+https://script.google.com/macros/s/AKfycbxbVLuP5UIsoQJruNhvJN7ezvYBebcgr1IjL2R_1D7zkh2wnAzKR8XiHST2k9k_fNKH/exec
